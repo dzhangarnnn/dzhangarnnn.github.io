@@ -1,0 +1,51 @@
+body {
+  background-color: #eff6ff;
+  font-family: Barlow Thin Italic;
+}
+.ot,
+h1,
+h2 {
+  color: #2a4a5c;
+}
+img {
+  width: 700px;
+  height: 700px;
+}
+#wrapper {
+  margin: 50px;
+  display: flex;
+}
+
+.OR {
+  text-align: center;
+}
+.left_block {
+  padding: 20px;
+  margin-right: 0px;
+}
+.right_block {
+  background-color: white;
+  width: 1000px;
+  padding: 30px;
+  margin-top: 20px;
+}
+.fb {
+  background-color: #255a9b;
+  color: white;
+}
+.in {
+  background-color: #0076b6;
+  color: white;
+}
+.submit {
+  background-color: #0076b6;
+  color: white;
+}
+.ser {
+  color: grey;
+  font-size: 12px;
+}
+button {
+  width: 200px;
+  height: 40px;
+}
